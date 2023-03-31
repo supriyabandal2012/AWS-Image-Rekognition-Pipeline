@@ -1,3 +1,9 @@
+Author: Supriya Bandal
+
+YouTube link:
+1. AWS Image Rekognition Pipeline: https://www.youtube.com/watch?v=q_g15xqZraw
+2. AWS Image Rekognition Services Setup: https://www.youtube.com/watch?v=QDjmqnJorMo&t=8s
+
 # Project Problem Statement:
 ![Alt text](Images/Project_Statement.png)
 
